@@ -7,7 +7,7 @@
 
 
   <p align="center">
-    An awesome roadmap to jlearn about JavaScript DOM!
+    An awesome roadmap to learn about JavaScript DOM!
     <br />
     <a href="https://goodfrontend.atlassian.net/wiki/spaces/GOODFRONTE/pages/75366470/JavaScript+DOM"><strong>Explore the docs »</strong></a>
   </p>
@@ -59,7 +59,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/evangeldaping/Roadmap-What-to-learn.git
+   git clone https://github.com/evangeldaping/JavaScript-DOM-Bookorama.git
    ```
 2. Install NPM package for BrowserSync
    ```sh
